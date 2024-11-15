@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+}
+.proudct-list li{
+    color: green;
+    font-weight: bold;
+}
+.proudct-list{
+    border: 1px solid ;
+    background-color: lightgray;
+}
